@@ -3,6 +3,14 @@ ol>li:first-child
 {
   font-weight: bold;
 }
+ol>li:last-child
+{
+  font-style: italic;
+}
+ul>li:first-child
+{
+  font-weight: bold;
+}
 ul>li:last-child
 {
   font-style: italic;
